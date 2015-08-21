@@ -7,7 +7,7 @@
 * Why we need "if-else" in function process?
 
 Answer: this process function is recursive function that work like factorail so it need if-else to check condition 
-number that lower than 1 to equal to 1
+number that lower than 1 to equal to 1.
  
 
 
