@@ -21,7 +21,11 @@ namespace Lab1_2
         }
         public int[] input()
         {
-            int[] input = { 4, 5, 2, 8, 9, 1, 2, 4, 3, 1 };
+            string n;
+            Console.WriteLine("Input: ");
+            n = Console.ReadLine();
+            int[] input;
+            input = n.Split(' ').Select(y => Convert.ToInt32(y)).ToArray(); ;
             return input;
 
         }
