@@ -10,5 +10,6 @@
 
 ## Questions
 1. What are the limitations of your new code?
+it can sort only integer number  
 
 Answer:
